@@ -1,1 +1,1 @@
-https://emacs-catering-domain-bob.trycloudflare.com
+https://api.trycloudflare.com
